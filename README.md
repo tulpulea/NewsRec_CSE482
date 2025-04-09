@@ -16,6 +16,11 @@ To do:
 
 - 3 categories, 1 basic, 1 advanced 
 
+data location for wget: 
+https://recodatasets.z20.web.core.windows.net/newsrec/MINDlarge_train.zip
+https://recodatasets.z20.web.core.windows.net/newsrec/MINDlarge_dev.zip
+https://recodatasets.z20.web.core.windows.net/newsrec/MINDlarge_test.zip
+
 
 
 
