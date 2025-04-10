@@ -2,8 +2,13 @@ name: cse482-newsrec
 channels:
   - conda-forge
 dependencies:
-  - python=3.13.2
+  - python=3.11           
   - pandas=2.2.3
-  - numpy=2.2.4
-  - scikit-learn=1.6.1
+  - numpy=1.26.4
+  - scikit-learn=1.4.2
   - ipykernel=6.29.5
+  - scipy=1.12.0
+  - tqdm=4.66.2
+  - pip
+  - pip:
+      - implicit==0.7.2
