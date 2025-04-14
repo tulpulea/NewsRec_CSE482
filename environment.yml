@@ -5,9 +5,12 @@ dependencies:
   - python=3.11           
   - pandas=2.2.3
   - numpy=1.26.4
+  - pytorch=2.6.0
+  - transformers=4.51.1
   - scikit-learn=1.4.2
   - ipykernel=6.29.5
   - scipy=1.12.0
+  - lightfm=1.17
   - tqdm=4.66.2
   - pip
   - pip:
